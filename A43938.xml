@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A history of the new plot, or, A prospect of conspirators their designs damnable, ends miserable, deaths exemplary.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43938</idno>
+            <idno type="STC">Wing H2173A</idno>
+            <idno type="STC">ESTC R11487</idno>
+            <idno type="EEBO-CITATION">11824229</idno>
+            <idno type="OCLC">ocm 11824229</idno>
+            <idno type="VID">49618</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43938)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49618)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 497:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A history of the new plot, or, A prospect of conspirators their designs damnable, ends miserable, deaths exemplary.</title>
+               </titleStmt>
+               <extent>1 sheet (4 columns) : ill. ; 54 x 40 cm. </extent>
+               <publicationStmt>
+                  <publisher>Printed for Randolph Taylor,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Broadside.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rye House Plot, 1683.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:49618:1" rendition="simple:additions"/>
+            <head>A Hiſtory of the New PLOT: Or, A Proſpect of Conſpirators, their Deſigns Damnable, Ends Miſerable, Deaths Exemplary.</head>
+            <p>
+               <figure/>
+            </p>
+            <div type="account">
+               <head>A brief Account of the late Treaſonable Conſpiracy,</head>
+               <p>AGainſt His Majeſties Sacred Perſon and Government, By promoting Seditious Libels, and other wicked Arts, to incite to a diſlike and hatred of his Sacred Perſon, the Heads of which <hi>Party</hi> having no other Deſign but the Deſtruction of Himſelf and Government.</p>
+               <p>By miſrepreſenting His Juſt Reſolutions, to the weaker, deceived ſort of People:</p>
+               <p>To that end ſhewing themſelves in <hi>
+                     <g ref="char:V">Ʋ</g>nlawful Tumults</hi> and <hi>Ryots,</hi> &amp;c.</p>
+               <p>But it pleaſed GOD, by theſe wayes of <hi>Violence,</hi> to open the eyes of many of the <hi>Loyal Subjects,</hi> who foreſaw what this method would produce; ſhewing with great Courage, Duty and Affection, readily to defend His Majeſties Royal Perſon and Government.</p>
+               <p>By which means, theſe <hi>Factions</hi> loſt ground: Hence being deſperately reſolved to betake themſelves to <hi>Arms,</hi> by force to overturn the Government.</p>
+               <p>Different Intereſts and Opinions joyn in this villanous Enterprize.</p>
+               <p>Contriving a general Inſurection in this King<g ref="char:EOLhyphen"/>dom, and alſo in <hi>Scotland,</hi> &amp;c.</p>
+               <p>Conſpiring to Aſſaſſinate His Sacred Majeſty, and Royal Brother.</p>
+               <p>Alſo to Maſſacre the Magiſtrates of the City of <hi>London,</hi> &amp;c.</p>
+               <p>But the Divine Providence hath wonderfully ſhewed it ſelf, in a gracious Preſervation, from this damnable and horrid Conſpiracy, <hi>&amp;c.</hi>
+               </p>
+               <p>About the Beginning of <hi>October</hi> laſt, the Principal <hi>Conſpirators</hi> met to agree, how to Maſter the Guards, and to Sieze His Majeſties Sacred Perſon, <hi>&amp;c.</hi>
+               </p>
+               <p>Some other Villains were likewiſe carrying on that horrid and Execrable <hi>Plot</hi> of Aſſaſſi<g ref="char:EOLhyphen"/>nating His Sacred Majeſty, and his Deareſt Brother, at their return from <hi>Newmarket</hi>; That being deferred, it was after agreed, at His Ma<g ref="char:EOLhyphen"/>jeſtys next going to <hi>Newmarket.</hi> The Place appointed was the Houſe of one <hi>Richard Rum<g ref="char:EOLhyphen"/>bold,</hi> a Malſter, called the <hi>Rye,</hi> near <hi>Hoddeſ<g ref="char:EOLhyphen"/>don,</hi> in the County of <hi>Hertford.</hi>
+               </p>
+               <p>Fourty Perſons were in this Aſſaſſination to be Actors, <hi>&amp;c.</hi>
+               </p>
+               <p>This Blow was to be followed with a Maſ<g ref="char:EOLhyphen"/>ſacre, of the Offic<gap reason="illegible: blotted" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s of State, the preſent Lord Mayor and Sherriffs, and the Magiſtrates moſt eminent for their Loyalty, <hi>&amp;c.</hi>
+               </p>
+               <p>The late Earl of <hi>Shaftsbury,</hi> who had preſt firſt to a ſudden Riſing, ſent to know the Con<g ref="char:EOLhyphen"/>ſpirators reſolution, and finding they intended farther preparation, conveyed himſelf ſecretly into <hi>Holland,</hi> to avoid the danger of his bieng diſcoveaed.</p>
+               <p>Divers of the Conſpirators are fled from Juſtice.</p>
+               <p>Others have been Committed, Tryed, Con<g ref="char:EOLhyphen"/>victed, Attainted, and Executed according to Law, <hi>viz. Thomas Walcot, William Hone, John Rouſe,</hi> and the Lord <hi>William Ruſſell.</hi>
+               </p>
+               <p>
+                  <hi>Arthur</hi> late Earl of <hi>Eſſex,</hi> being Committed to the <hi>Tower,</hi> for <hi>High Treaſon,</hi> Killed himſelf.</p>
+               <p>
+                  <hi>Shaftsbury</hi>'s curſed Deſign, how laid, is Ex<g ref="char:EOLhyphen"/>plained by his Book of <hi>Worthy Men,</hi> and <hi>Men Worthy,</hi> thus,</p>
+               <p>'Tis an <hi>Alphabetical Digeſtion</hi> of all the Coun<g ref="char:EOLhyphen"/>ties of <hi>England,</hi> juſt in Order of a <hi>Parliament-Tax,</hi> in the <hi>Statute-Book</hi>; with a <hi>Liſt</hi> of the <hi>WORTHY-MEN,</hi> on the <hi>One</hi> Hand, and <hi>MEN-WORTHY</hi> on the Other, Denoting by the Former, the <hi>True-Proteſtant Party,</hi> and by the O<g ref="char:EOLhyphen"/>ther the <hi>Kings Loyal Subjects,</hi> and the <hi>True Sons</hi> of the <hi>Church.</hi> [<hi>MENWORTHY</hi>] is to be read with a <hi>Sub-intelligitur</hi>; that is to ſay, <hi>WORTHY</hi> to be <hi>Hang'd.</hi> Into this Book were Enter'd the Names of the moſt conſiderable Men in the Kingdom, and <hi>Ranged</hi> in their proper Counties under the One, or the Other Head, according<g ref="char:EOLhyphen"/>ly as they ſtood Enclin'd: Inſomuch that it was, Effectually, a <hi>Compendious,</hi> and a <hi>Ready Eſtimate</hi> of the <hi>Strength</hi> and the <hi>Intereſt</hi> of <hi>Both Parties.</hi>
+               </p>
+               <p>Some affect to be Maſters of new Hereſies, by fair ſhews, though for baſe Ends, that are the <hi>Churches</hi> Troublers: Such the Apoſtles Wiſh reaches, <hi>Would to God they were even Cut Off,</hi> Gal. 5.12.</p>
+               <p>And to <hi>mark them that cauſe Diviſions,</hi> Rom. 16.17.</p>
+               <p>Thoſe <hi>little Foxes that ſpoil the Vines,</hi> Cant. 2.15.</p>
+               <p>I would have old <hi>Babylon</hi> broken down, and all new <hi>Babels</hi> kept down; that we may not be burthened with New <hi>Jeſuitical Plots,</hi> of <hi>Faction</hi> and <hi>Schiſm</hi>; leaſt pleaders for <hi>Liberty</hi> turn <hi>Libertines,</hi> to begin and foment Con<g ref="char:EOLhyphen"/>fuſions.</p>
+               <p>For not to dwell in <hi>Rome,</hi> but to have <hi>Rome</hi> dwell in us is as great a ſin, and the High-way to <hi>Deſtruction.</hi> In this Caſe <hi>Engliſh</hi> or <hi>Italian Babylonians</hi> are all one.</p>
+            </div>
+            <div type="propositions">
+               <head>The Twenty Seven <hi>Propoſitions</hi> Con<g ref="char:EOLhyphen"/>demned and Executed by the Conſent of the <hi>Univerſity</hi> of <hi>Oxford,</hi> which are as follows.</head>
+               <p>THE Firſt Propoſition is, That the People are the Fountain of Power. 2ly, There's a mutual Compact, and the Power Forfeitable upon Breach of Truſt. 3dly, Power Forfeitable for Miſgovernment. 4ly, The King one of the Three Eſtates. 5. Birthright gives no Title. 6. Subjects may <hi>Covenant</hi> for De<g ref="char:EOLhyphen"/>fence, without, and Againſt the Supreme Ma<g ref="char:EOLhyphen"/>giſtrate. 7. Self-Preſervation is the Sovereign Law. 8. Reſiſtance Lawful for Religion. 9. A<g ref="char:EOLhyphen"/>gainſt Paſſive Obedience. 10. Poſſeſſion is a good Title. 11. The State of Nature is a ſtate of War, in which every man hath a Right to all things. 12. The Foundation of <hi>Civil Authori<g ref="char:EOLhyphen"/>ty</hi> is this <hi>Natural Right.</hi> 13. Every man re<g ref="char:EOLhyphen"/>tains a Right of Defending himſelf againſt <hi>Force,</hi> tho' a Member of a <hi>Society.</hi> 14. An <hi>Oath</hi> Su<g ref="char:EOLhyphen"/>per-adds no Obligation to <hi>Pact</hi>; and a <hi>Pact</hi> Obliges no further then it is <hi>Credited.</hi> 15. If a People Sinfully <hi>Diſpoſseſs One Prince</hi>; and contrary to a <hi>Former</hi> Oath, Covenant with <hi>A<g ref="char:EOLhyphen"/>nother,</hi> the <hi>Later Covenant</hi> ſtands. 16. All <hi>Oaths</hi> are Unlawful. 17. The <hi>Taker</hi> Swears in his own <hi>Senſe.</hi> 18. <hi>Dominion</hi> Founded in <hi>Grace.</hi> 19. <hi>Civil Powers</hi> Uſurp upon the Pre<g ref="char:EOLhyphen"/>rogative of <hi>Chriſt.</hi> 20. Kings Subject to the <hi>Presbytery.</hi> 21. No Impoſitions Lawful in Gods Worſhip, unleſs antecedently Neceſſary. 22. The Duty of Not Offending a weak Brother, is in<g ref="char:EOLhyphen"/>conſiſtent with all humane Authority of making Laws concerning Indifferent Things. 23. Judges and Inferior Magiſtrates ought to put <hi>Wicked Kings,</hi> and Tyrants to Death; and if they fail, the Power devolves to the People. 24. God's People are to expect <hi>New Revelations</hi> for a Rule of their Actions, and upon an <hi>Inward Motion</hi> from God may deſtroy <hi>Tyrants.</hi> 25. The <hi>Preſi<g ref="char:EOLhyphen"/>dent</hi> of <hi>Phinehas</hi> is to us inſtead of a <hi>Command.</hi> 26. The Murderers of <hi>Charles</hi> the Firſt, were the Inſtruments of <hi>Gods Glory.</hi> 27. <hi>Charles</hi> the Firſt making War upon his Parliament; was <hi>Lawfully Reſiſted,</hi> and no longer King.</p>
+               <p>
+                  <hi>DAvid</hi>'s Subjects Loyal, did eſtimate him better worth than Ten Thouſand of his Subjects, 2 <hi>Sam.</hi> 18.3.</p>
+               <p>By the only Wiſe God, this great King of Kings, Monarchy was firſt eſtabliſhed. <hi>Moſes</hi> was a Monarch and King in <hi>Jeſhurum,</hi> Deut. 33.5.</p>
+               <p>
+                  <hi>Joſhua</hi> and the reſt of the Judges or Dukes, were Virtually tho' not Formally Kings.</p>
+               <p>The Habit of Saintſhip, or if Intereſt and a long Sword, and ſtrong Arm will not do: For Powers are Ordain'd of God, and not of men, (and this in the New-Teſtament dayes) <hi>Rom.</hi> 12.4.6.</p>
+               <p>Note, God foretold <hi>Iſrael</hi> of their having a King, <hi>Deut.</hi> 17.14, 15. And this King was not choſen by the People, but by Lot, 1 <hi>Sam.</hi> 10</p>
+               <p>And when <hi>Samuel</hi> ſhewed the People him whom the Lord had choſen, <hi>&amp;c.</hi> The People ſhouted, and ſaid, <hi>God Save the King:</hi> or as the <hi>Hebrew</hi> Margent, <hi>Let the King Live.</hi>
+               </p>
+               <p>Conſult Scripture and you will find, that Judgments have Dogg'd at the heels of all ſuch Subjects as have either ſecretly or openly Riſen up in Conſpiracy or Rebellion againſt their Lawful Kings. Had <hi>Zimri</hi> peace who Slew his Maſter? 2 <hi>Kings</hi> 9.31.</p>
+               <p>Hence let the Original of Kingly Power teach us, in Conſcience towards God, to ſtand in De<g ref="char:EOLhyphen"/>fence of our King.</p>
+               <p>To Strengthen this, let us reflect back upon the Judgments that overtook the Inſtruments of our late Kings Murther.</p>
+               <p>Gods Providence takes a ſpecial Care of the Safety of Princes, and that he is immediately concerned to avenge their Blood; that ſeeing the Powers that be, are ordained of God, it follows, That not only he that Rebels, but even he that Reſiſteth the Power, reſiſteth Gods Ordinance; the Conſideration of which will prove the an<g ref="char:EOLhyphen"/>cient Maxime true, That Chriſtianitys Conſi<g ref="char:EOLhyphen"/>ſtency is always attended with Loyalty; which is the great Deſign of this Exemplar.</p>
+               <p>
+                  <hi>Abſolom</hi> Conſpires againſt his Father, 2 <hi>Sam.</hi> 15.</p>
+               <p>Chap. 18. <hi>Abſolom</hi> in the wood of <hi>Ephraim,</hi> is hanged by the hair, in a great Oak, and ſlain by <hi>Joab.</hi>
+               </p>
+               <p>The <hi>Amalekite</hi> that ſtood upon <hi>Saul</hi> and ſlew him, he being not afraid to deſtroy the Lords Anointed, is ſlain by the Command of <hi>David,</hi> 2 <hi>Sam.</hi> 1.14, 15. for ſlaying the Lords Anointed, <hi>v.</hi> 16.</p>
+               <p>
+                  <hi>Baaſha</hi> Conſpired againſt <hi>Nadab,</hi> the King, and ſlew him at <hi>Gibethon,</hi> and Reigned in his ſtead, 1 <hi>Kings</hi> 15.28, 29.</p>
+               <p>
+                  <hi>Ela</hi> the Son of <hi>Baaſha,</hi> that ſlew <hi>Nadab, Zim<g ref="char:EOLhyphen"/>ri</hi> his Servant, Conſpired againſt him, and ſlew him after he had Reigned two years, 1 <hi>Kings</hi> 16.8, 9, 10.</p>
+               <p>
+                  <hi>Zimri</hi> Reigned but ſeven days, who ſlew <hi>Ela,</hi> and when the People Encamped, heard ſay, <hi>Zimri</hi> hath Conſpired, and alſo ſlain the King, the Souldiers made <hi>Omri,</hi> the Captain of the Hoſt, King, <hi>Zimri</hi> deſperately Burnt himſelf, at <hi>Tirza</hi> in the Pallace of the Kings Houſe, 1 <hi>Kings</hi> 16.15, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Ahab</hi> the Son of <hi>Omri</hi> is ſlain at <hi>Ramoth Gi<g ref="char:EOLhyphen"/>lead,</hi> the Dogs lick up his Blood, 1 <hi>Kings</hi> 22.34.38.</p>
+               <p>
+                  <hi>Jehoaſh</hi> is ſlain by his ſervants, that made a Conſpiracy, 2 <hi>Kings</hi> 12.20.</p>
+               <p>
+                  <hi>Amaziah</hi> ſlew his ſervants that had ſlain the King his Father, 2 <hi>Kings</hi> 14.5.</p>
+               <p>2 <hi>Chron.</hi> 33.24, 25. King <hi>Amons</hi> Servants Conſpire and ſlay him in his own houſe, but the People of the Land ſlew all them that had Con<g ref="char:EOLhyphen"/>ſpired.</p>
+               <p>The New Teſtament is not ſlack in foretel<g ref="char:EOLhyphen"/>ling the laſt Ages, Perilous Times, and mark'd them out, <hi>Rom.</hi> 16.</p>
+               <p>As ſervers of their own Bellies, deceiving the Hearts of the People. <hi>Satans Miniſters are Transformed,</hi> Gal. 5.19, &amp;c.</p>
+               <p>Windy Doctrines of men, cunning Crafti<g ref="char:EOLhyphen"/>neſs, and lying in wait to deceive, <hi>Eph.</hi> 4.14.</p>
+               <p>But <hi>Timothy</hi> Exhorts eſpeceially, Supplicati<g ref="char:EOLhyphen"/>ons, Praytrs, and Interceſſions eſpecially for Kings. 1 <hi>Tim.</hi> 2.1.</p>
+               <p>And 2 <hi>Tim.</hi> 3. is expreſs concerning theſe perilous Times, Traytors, Heady, High-minded, Reprobates, Seducers, Itching Ears, turned in<g ref="char:EOLhyphen"/>to Fables, Chap. 4 3, 4.</p>
+               <p>
+                  <hi>Titus</hi> 1.10. <hi>&amp;c.</hi> Vain Talkers and deceivers, ſubvert whole houſes: Their mind and Con<g ref="char:EOLhyphen"/>ſcience being defiled, abominable and diſobedi<g ref="char:EOLhyphen"/>ent to every Good work.</p>
+               <p>2 <hi>Pet.</hi> 2.1.10. Falſe Teachers, deſpiſers of Government, Preſumptuous, Selt-willed, that ſpeak Evil of Dignities, Scoffers, walkers after their own luſts.</p>
+               <p>
+                  <hi>Jude</hi> v. 8.19. Renders ſuch, Filthy Dreamers, Deſpiſers of Dominion, Evil ſpeakers of Dig<g ref="char:EOLhyphen"/>nities, Senſual, Separatiſts, not having the Spirit.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, Printed for <hi>Randolph Taylor,</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
